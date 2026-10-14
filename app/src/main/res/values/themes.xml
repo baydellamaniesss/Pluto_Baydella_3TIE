@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme -->
+    <style name="Base.Theme.Pluto_Baydella"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Customize your light theme here -->
+
+    </style>
+
+    <style name="Theme.Pluto_Baydella"
+        parent="Base.Theme.Pluto_Baydella" />
+
+</resources>
